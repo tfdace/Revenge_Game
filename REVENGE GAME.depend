@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1635887404 source:/home/estefi/Desktop/REVENGE GAME/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1639924427 source:/home/estefi/Desktop/Revenge/funciones.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<unistd.h>
+	"funciones.h"
+
+1636754039 /home/estefi/Desktop/Revenge/funciones.h
+
+1639924324 source:/home/estefi/Desktop/Revenge/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<unistd.h>
+	"funciones.h"
+
